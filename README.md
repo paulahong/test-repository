@@ -9,3 +9,5 @@ Repositorio de test de IS
   >Texto de ejemplo
 
 Línea añadida en local
+
+otra línea añadida en local
